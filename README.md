@@ -52,7 +52,7 @@ Web: `assets/sounds`
 To use npm
 
 ```bash
-npm install git+https://github.com/bondulich/native-audio.git
+npm install @bondulich/native-audio
 ```
 
 Sync native files
@@ -95,7 +95,7 @@ No configuration required for this plugin.
 [Example repository](https://github.com/bazuka5801/native-audio-example)
 
 ```typescript
-import {NativeAudio} from '@capacitor-community/native-audio'
+import {NativeAudio} from '@bondulich/native-audio'
 
 
 /**

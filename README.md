@@ -2,6 +2,9 @@
 <h3 align="center">Native Audio</h3>
 <p align="center"><strong><code>@capacitor-community/native-audio</code></strong></p>
 <p align="center">
+  This project is a fork to support Capacitor v6
+</p>
+<p align="center">
   Capacitor community plugin for playing sounds natively.
 </p>
 
@@ -49,13 +52,7 @@ Web: `assets/sounds`
 To use npm
 
 ```bash
-npm install @capacitor-community/native-audio
-```
-
-To use yarn
-
-```bash
-yarn add @capacitor-community/native-audio
+npm install git+https://github.com/bondulich/native-audio.git
 ```
 
 Sync native files

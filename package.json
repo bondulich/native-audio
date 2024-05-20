@@ -1,6 +1,6 @@
 {
   "name": "@bondulich/native-audio",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "A native plugin for native audio engine",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorCommunityNativeAudio.podspec"
+    "BondulichNativeAudio.podspec"
   ],
   "keywords": [
     "capacitor",
